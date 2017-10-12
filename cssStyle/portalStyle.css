@@ -1,0 +1,75 @@
+
+
+        h1{
+            margin: 0px;
+            font-size: 3.5em;
+            font-family: "Ek Mukta";
+            text-align: center;
+        }
+
+        h2{
+            margin: 0px;
+            font-size: 2em;
+            font-family: "Ek Mukta";
+            
+            font-weight: 400;
+        }
+
+        h3{
+            font-size: 1.5em;
+            font-family: "Ek Mukta";
+            margin-bottom: -20px;
+        }
+
+        p{
+            font-size: 1em;
+            font-family: "Ek Mukta";
+        } 
+
+        a{
+            font-family: "Ek Mukta";
+            text-decoration:none;
+        }
+
+        a:default{
+            color:#2e2728;
+        }
+
+        a:visited{
+            color:#2e2728;
+        }
+
+        a:hover{
+            color:#2e2728;
+            opacity: 0.7;
+        }
+
+        div#wrapper{
+            width:1020px;
+            position: relative;
+            margin-right: auto;
+            margin-left: auto;
+        }
+
+        div.text{
+            height: auto;
+            background-color: white;
+            padding:10px;
+        }
+
+        body{
+            background-color: #f1f1f1;
+        }
+
+        li{
+            font-family: "Ek Mukta";
+            list-style: none;
+
+        }
+
+        #banner{
+            position: relative;
+                margin-right: auto;
+                margin-left: auto;
+                width: 1020px;
+        }
